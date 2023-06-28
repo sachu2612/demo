@@ -1,2 +1,2 @@
 # demo
-Demo for git hub beginners course
+Demo for git hub beginners course!
